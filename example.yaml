@@ -1,0 +1,6 @@
+message:
+  date: 2022-02-02
+  from: josn
+  to:
+    - abc
+    - cba
